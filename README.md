@@ -1,7 +1,7 @@
 Project Name
 ===========
 
-<p align="center">
+<p align="left">
   <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img src="https://img.shields.io/badge/-CC_BY--SA_4.0-000000.svg?style=for-the-badge&logo=creative-commons&logoColor=white"/>
   </a>
@@ -10,9 +10,9 @@ Project Name
   ## Description
 
   ## Use
-  
+
   ## Install
-  
+
 ----
 
   ### License:
